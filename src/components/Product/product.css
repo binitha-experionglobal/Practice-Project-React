@@ -1,0 +1,29 @@
+.photo {
+    height:20%;
+    width: 20%; 
+    margin: 5%!;
+    padding: 2%!;
+}
+.title{
+    padding-left: 40%;
+    font-size: xx-large;
+}
+.go{
+    font-size: large;
+    
+}
+.field{
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: black;
+    margin: 10px;
+}
+.products{
+    padding-top: 4%;
+}
+.pills{
+    margin-left: 4%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    font-size: larger;
+}
